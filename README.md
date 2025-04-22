@@ -1,6 +1,4 @@
-# 🚀 FastAPI Project Starter
-
-This is a basic FastAPI backend project setup for building modern APIs with Python.
+# 🚀 FastAPI Data Analyzer
 
 ---
 
